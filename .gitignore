@@ -1,0 +1,27 @@
+# Data / runtime files
+password.txt
+密码.txt
+settings.conf
+配置.txt
+privacy-screen.log
+隐私屏日志.txt
+overlay-text.txt
+遮罩文字.txt
+touchpad-device.txt
+触控板设备.txt
+
+# Build artifacts
+*.exe
+*.pdb
+*.dll
+
+# OS
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+*.suo
+*.user
